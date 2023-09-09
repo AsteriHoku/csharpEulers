@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpEulers", "csharpEulers\csharpEulers.csproj", "{EACFD842-36D4-4395-8D4D-BC409AE2933C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E12triangles", "E12triangles\E12triangles.csproj", "{51AEF6C0-C22C-4D80-8809-9256CFB2106A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{EACFD842-36D4-4395-8D4D-BC409AE2933C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EACFD842-36D4-4395-8D4D-BC409AE2933C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EACFD842-36D4-4395-8D4D-BC409AE2933C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51AEF6C0-C22C-4D80-8809-9256CFB2106A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AEF6C0-C22C-4D80-8809-9256CFB2106A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AEF6C0-C22C-4D80-8809-9256CFB2106A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AEF6C0-C22C-4D80-8809-9256CFB2106A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
